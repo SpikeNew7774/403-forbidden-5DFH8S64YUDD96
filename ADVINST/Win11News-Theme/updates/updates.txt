@@ -1,0 +1,15 @@
+;aiu;
+
+[Update]
+Name = Windows 11 News Theme
+ProductVersion = 1.0.1
+URL = https://github.com/SpikeNew7774/4851d6fffdb3f5/raw/main/ADVINST/Win11News-Theme/Win11NewsTheme_1.0.1.msi
+Size = 752640
+ServerFileName = Win11NewsTheme_1.0.1.msi
+Flags = Critical
+RegistryKey = HKUD\Software\SpikeNew7774\Windows 11 News Theme\Version
+Version = 1.0.1
+Description = Critical Update
+Feature = Added security
+Enhancement = New OpAs Icon
+BugFix = Crashing Error FIXED
