@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+* {
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+#mainwindow {
+    -webkit-text-size-adjust: 100%;
+    max-width: 580px;
+    height: auto;
+    border: solid 0.5px rgb(199, 199, 199);
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    background: #88ABFF;
+    color: white;
+}
+#web-app {
+    background-color: #5a8bfd;
+    color: white;
+    border: none;
+    font-size: 17px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 240ms ease;
+}
+#web-app:active,
+#web-app:hover {
+    background-color: #3e78ff;
+    color: white;
+    border: none;
+    font-size: 17px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#download-app {
+    background-color: #5a8bfd;
+    color: white;
+    border: none;
+    font-size: 17px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 240ms ease;
+}
+#download-app:active,
+#download-app:hover {
+    background-color: #3e78ff;
+    color: white;
+    border: none;
+    font-size: 17px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#pozngq {
+    color: white;
+    cursor: pointer;
+    text-decoration: underline;
+}
